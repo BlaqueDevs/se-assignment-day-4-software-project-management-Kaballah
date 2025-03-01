@@ -10,7 +10,7 @@ Timely delivery is a cornerstone of successful software project management becau
 4. Timely delivery prevents budget overruns and maximizes Return on Investment.
 
 <ins>How to Ensure Deadlines are Met</ins>
-1. _Using Agile Methodology:_ Breaking projects into smaller chunks like sprints (Scrum) or Kanban workflows, creates incremental progress and adaptability within a team.
+1. _Use Agile Methodology:_ Breaking projects into smaller chunks like sprints (Scrum) or Kanban workflows, creates incremental progress and adaptability within a team.
 2. _Risk Management:_ Before beginning the project, it is advisable to conduct risk assessment and identify potential delays that your team might encounter and ways to work around or mitigate the risks.
 3. _Scope Defination:_ Understand the scope of the project so your team doesn't overstep and go outside the scope of the project.
 4. _Project Tracking:_ Use robust project tracking tools such as Jira, Trello or Asana to assist in tasks, visualization progress and identifying bottlenecks early. 
@@ -106,23 +106,68 @@ Timely delivery is a cornerstone of successful software project management becau
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
 <ins>Benefits of Developing a Detailed Project Schedule</ins>
-- 
+- A detailed schedule outlines a clear timeline of when the project is to begin and when the end date.
+- A project schedule also identifies the resources required by the development team and ensures these resources are available.
+- It also provides a baseline for tracking progress that allow for timely corrective actions to keep the project on track.
+- It aids in outlining potential risks and ways of mitigating the risks early in the development lifecycle.
+- Finally, project schedules highlights dependencies between tasks, showing which tasks must be completed before others can start.
+
+<ins>Gantt Charts</ins>
+- Gantt charts provide a visual representation of the project schedule and everything required like the tasks to be done, timeline and even dependancies.
+- They also shows the sequence of tasks and dependancies which helps in planning the logical order of tasks.
+- Gantt charts allow for real-time tracking of task progress hence providing a clear view of what has been completed and what needs to be completed.
+- They are also used in assigning tasks which shows who is responsible for each tasks.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+_(Just to metion but a few)_ </br>
+<ins>Core Issues to Address</ins>
+- Citizens often lack access to detailed information about how public funds are allocated and spent.
+- Citizens are often excluded from decision-making processes, leading to policies and projects that do not reflect their needs.
+- Corruption and mismanagement of public funds are pervasive issues in Kenya, leading to lost resources and poor service delivery.
 
+<ins>Significance of the Issues</ins>
+- Transparency ensures that government officials are held accountable for their use of public funds.
+- Citizen participation ensures that diverse voices are heard, leading to more inclusive and equitable policies.
+- Reducing corruption ensures that public funds are used for their intended purposes, improving service delivery.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
+- A well-defined problem statement provides clarity and focus for the development team ensuring that all efforts are directed towards solving the right problems.
+- A clearly defined problem also helps in clearly defining the problem and helping the development align with the stakeholder's standards.
+- It also helps in defining guides for requirement gathering and helps the team know their scope better.
+- A clear problem definition ensures that the development process remains user-centric and focussing in the user's needs.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
+1. I will start by clearly defining the problem that the problem seeks to solve.
+2. Next, I will highlight the purpose of the software while focusing on its primary functionalities.
+3. Then, I will outline the advantages and improvements the solution brings to its users.
+4. I will then describe the user experience and paint a picture for the users on how they will be interacting with the system.
+5. Finally, I will employ analogies or comparisons to familiar concepts to make the software’s value more relatable.
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
+1. User friendly interface.
+2. Real-time data analysis.
+3. Customization and flexibility.
+4. Security and compliance.
+5. Mobile accessibility.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
+<ins>Data Available for Market Size</ins>
+1. Kenyan population.
+2. Internet users in Kenya.
+3. Government spending.
+
+<ins>Data Available for Growth Potential
+1. Youth and innovation.
+2. Digital transformation.
+3. Devolution.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
 
-
+1. Market trends often reveal evolving user needs and preferences and by using market trends, one can tailor their software to meet the current and future demands.
+2. Trends highlight what your competitors are up to and can help you to differentiate your software by offering unique features.
+3. Trends also point to emerging technologies which you can use to leverage your software to provide competitive edge and enhance functionality of your software.
+4. Trends can also reveal gaps in the market that are underserved. This can aid in identifying opportunities to develop niche solutions that address unmet needs.
